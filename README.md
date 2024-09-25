@@ -105,13 +105,13 @@ Every successful business starts with a solid idea. When considering a family bu
 
 - List of Family Business Ideas: Some businesses thrive because they are built around a family’s unique assets. Here are examples of family business ideas:
 
-   - Home-based services: Daycare, catering, or tutoring.
-   - Retail or e-commerce: Selling handmade goods, reselling products, or starting an online boutique.
-   - Farming or Agriculture: Growing organic produce, flowers, or livestock.
-   - Creative services: Graphic design, video production, or photography.
-   - Real Estate or Property Management: Managing rental properties, home renovations, or vacation rentals.
+ - Home-based services: Daycare, catering, or tutoring.
+ - Retail or e-commerce: Selling handmade goods, reselling products, or starting an online boutique.
+ - Farming or Agriculture: Growing organic produce, flowers, or livestock.
+ - Creative services: Graphic design, video production, or photography.
+ - Real Estate or Property Management: Managing rental properties, home renovations, or vacation rentals.
 
-1.2 Analyzing Market Opportunities
+**1.2 Analyzing Market Opportunities**
 
 Once you have a few ideas, it’s crucial to ensure there’s a market demand for them. No matter how great your family’s skills are, the business will only succeed if people are willing to pay for your products or services.
 
